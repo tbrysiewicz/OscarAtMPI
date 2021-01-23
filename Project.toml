@@ -1,0 +1,8 @@
+name = "OscarDayMPI"
+uuid = "9933e37f-c03c-49d3-9e12-73ceb079221a"
+authors = ["taylor <tbrysiewicz@math.tamu.edu>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Polymake = "d720cf60-89b5-51f5-aff5-213f193123e7"
